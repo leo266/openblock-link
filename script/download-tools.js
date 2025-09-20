@@ -8,7 +8,7 @@ const {extractFull} = require('node-7z');
 const {path7za} = require('7zip-bin');
 
 // GitHub API URL, fill in your repository and username
-const user = 'openblockcc';
+const user = 'leo266';
 const repo = 'openblock-tools';
 const downloadPath = './tmp'; // Path to store downloaded files (cached)
 const extractPath = './tools'; // Path where files will be extracted
