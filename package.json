@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openblockcc/openblock-link.git"
+    "url": "git+https://github.com/leo266/openblock-link.git"
   },
   "keywords": [
     "openblock",
@@ -30,9 +30,9 @@
   "author": "OpenBlock Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/openblockcc/openblock-link/issues"
+    "url": "https://github.com/leo266/openblock-link/issues"
   },
-  "homepage": "https://github.com/openblockcc/openblock-link#readme",
+  "homepage": "https://github.com/leo266/openblock-link#readme",
   "dependencies": {
     "7zip-bin": "^5.2.0",
     "ansi-string": "^0.2.1",
